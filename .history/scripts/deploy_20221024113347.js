@@ -16,7 +16,3 @@ const runMain = async () => {
     process.exit(1);
   }
 };
-
-runMain();
-
-//  0xedB6D034593B815ba8196F35970A0B3B0B55aF01
